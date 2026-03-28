@@ -1,0 +1,13 @@
+flask
+flask-cors
+librosa
+scikit-learn
+numpy
+pandas
+textblob
+nltk
+scipy
+joblib
+soundfile
+language_tool_python
+requests

@@ -1,0 +1,28 @@
+.shuffle-parent {
+  display: inline-block;
+  white-space: normal;
+  line-height: 1;
+  font-size: 40px;
+  font-family: 'Norwester', sans-serif; /* or your Norvas font */
+  text-transform: uppercase;
+  visibility: hidden;
+  letter-spacing: 1px;
+}
+
+.shuffle-parent.is-ready {
+  visibility: visible;
+}
+
+.shuffle-char-wrapper {
+  display: inline-block;
+  overflow: hidden;
+  position: relative;
+}
+
+.shuffle-char-wrapper > span {
+  display: inline-flex;
+}
+
+.shuffle-char {
+  display: inline-block;
+}

@@ -1,0 +1,11 @@
+flask
+flask-cors
+speechrecognition
+librosa
+numpy
+pandas
+scikit-learn
+textblob
+nltk
+pyaudio
+pydub
